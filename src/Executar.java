@@ -401,7 +401,7 @@ public class Executar {
 
 					tempoInicialms = System.currentTimeMillis();
 					tempoInicialns = System.nanoTime();
-					insertionSort.ordenaAlgoritmo(vetor100);
+					insertionSort.ordenaAlgoritmo(vetor100000);
 					tempoFinalms = System.currentTimeMillis();
 					tempoFinalns = System.nanoTime();
 					System.out.println(tempoFinalns - tempoInicialns + " ns");
