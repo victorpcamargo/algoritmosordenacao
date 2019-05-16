@@ -1,3 +1,4 @@
+
 public class SelectionSort {
 	public void ordenaAlgoritmo(int[] vetor) {
 		int i, j;
